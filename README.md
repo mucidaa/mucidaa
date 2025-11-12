@@ -38,7 +38,7 @@ Estudante de desenvolvimento backend com foco em Java e Spring Boot, buscando op
 
 ### 📫 Como me encontrar:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([seu-link-linkedin](https://www.linkedin.com/in/amucida/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amucida/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvaromucidaac@gmail.com)
 
 ---
