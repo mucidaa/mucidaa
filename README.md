@@ -32,7 +32,12 @@ Estudante de desenvolvimento backend com foco em Java e Spring Boot, buscando op
 
 ### 📁 Projetos em Destaque
 
-🔜 *Em breve! Estou desenvolvendo projetos para demonstrar minhas habilidades.*
+#### 📝 [To-Do List API](https://github.com/mucidaa/todolist-api)
+API REST completa para gerenciamento de tarefas
+- ☕ Java 17 + Spring Boot
+- 🗄️ MySQL + Spring Data JPA
+- ✅ Validações e tratamento de erros
+- 🏗️ Arquitetura em camadas
 
 ---
 
